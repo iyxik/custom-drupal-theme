@@ -1,6 +1,6 @@
 # Custom Drupal Theme
 
-A simple custom Drupal 11 theme created for assignment purposes.
+A simple custom Drupal 11 theme
 
 ## Overview
 
