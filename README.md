@@ -43,7 +43,3 @@ lando drush cr
 3. Enable the theme:
 
 **Appearance → Iyxik → Set as default**
-
-## Author
-
-Vince Arn
